@@ -1,0 +1,14 @@
+body {
+    background-image:url(img/ad.gif);
+}
+#canvas {
+  background: #AF1919D4;
+  border: 5px solid black;
+}
+button {
+  border: 6px solid green;
+  background-color: #AF1919D4;
+  width: 100px;
+  height: 200px;
+  box-shadow: -20px 20px 3px #3F0303D4;
+}
